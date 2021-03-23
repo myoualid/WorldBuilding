@@ -1,2 +1,2 @@
 # IFC4D
-Blender scheduling with ifcpythonshell and blenderBIM
+Blender BIM4D ANIMATION with ifcpythonshell and blenderBIM
