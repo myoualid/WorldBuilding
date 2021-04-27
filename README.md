@@ -1,4 +1,4 @@
-# REPOSITORY OF VIRTUAL WORLD
+# VIRTUAL WORLD OPEN REPO
 
 ### Blend files
 Objects, buildings, scenes.
